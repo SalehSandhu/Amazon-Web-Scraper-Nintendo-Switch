@@ -99,7 +99,7 @@ Amazon-Web-Scraper-Nintendo-Switch/
 
 ## Disclaimer
 
-This project was built for educational purposes. Always check a website's terms of service and `robots.txt` before scraping, and keep request frequency low.
+This project was built for educational purposes. Keep request frequency low.
 
 ## Author
 
